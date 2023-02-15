@@ -1,0 +1,14 @@
+GET http://localhost:3001/api/persons
+
+###
+DELETE  http://localhost:3001/api/persons/611edc174882802fde88e6dc
+ 
+
+###
+POST  http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+  "name": "Jun Sung",
+  "number": "505-505-5055"
+}
