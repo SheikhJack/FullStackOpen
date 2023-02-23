@@ -17,7 +17,7 @@
     "test": "cross-env NODE_ENV=test jest --verbose --runInBand",
     "start:test": "cross-env NODE_ENV=test node index.js"
   },
-  "author": "Jun Sung Lee",
+  "author": "Kealeboga",
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^7.0.3",
